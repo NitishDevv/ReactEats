@@ -92,3 +92,8 @@ So react combine the render phase of all the child components before starting th
     - Parent ComponentDidMount
 
 \*/
+
+# Optimizing our app
+
+- Lazy-loading/Chunking/Code-splitting/Dynamic-import/on demand loading is the way to optimize our app and load the heavy components only when user needs them like we did with the Grocery Component.
+- Lazy and Suspense from react provides us the way to load the components bundle on demand on route change.
