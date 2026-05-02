@@ -27,7 +27,7 @@
 
 .res-card{
     margin: 5px;
-    padding: 5px;
+    /* padding: 5px; */
     width: 20%;
     
 }
@@ -69,4 +69,9 @@
 
 .filter{
     display: flex;
+}
+
+.user-card{
+    padding: 10px;
+    border: 1px solid black;
 }
