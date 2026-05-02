@@ -25,10 +25,16 @@
     flex-wrap: wrap;
 }
 
+.res-link{
+    width: 20%;
+    text-decoration: none;
+    color: inherit;
+}
+
 .res-card{
     margin: 5px;
     /* padding: 5px; */
-    width: 20%;
+    height: 100%;
     
 }
 
